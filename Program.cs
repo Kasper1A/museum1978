@@ -5,7 +5,6 @@ static void Entrance()
 {
     while (true)
     {
-        string abc;
         int choice;
         bool success;
         do
